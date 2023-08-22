@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+fieldset{
+	height: 100vh;
+	width: 100vh;
+	border: none;
+}
+body{
+	background-image: url(./Image/resu.jpeg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	
+}
+form{
+	color: white;
+}
+
